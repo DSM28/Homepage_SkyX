@@ -12,15 +12,15 @@ font-family: montserrat;
 
 nav{
     background: #0082e6;
-    height: 90px;
+    height: 150px;
     width: 100%;
 
 }
 
 label.logo{
     color: white;
-    font-size: 45px;
-    line-height: 90px;
+    font-size: 105px;
+    line-height: 130px;
     padding: 0 100px;
     font-weight: bold;
 }
@@ -33,12 +33,12 @@ margin-right: 20px;
 nav ul li{
     display: block;
     margin: 50px 0;
-    line-height: 40px;
+    line-height: 70px;
 }
 
 nav ul li a{
     color: white;
-    font-size: 30px;
+    font-size: 70px;
     padding: 7px 13px;
     border-radius: 3px;
     text-transform: uppercase;
@@ -51,10 +51,10 @@ color: #0082e6;
 }
 
 .checkbtn{
-    font-size: 40px;
+    font-size: 70px;
     color: white;
     float: right;
-    line-height: 80px;
+    line-height: 120px;
     margin-right: 40px;
     cursor: pointer;
     display: block;
